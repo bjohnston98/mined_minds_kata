@@ -1,6 +1,5 @@
 number=0
 100.times do
-puts number
-	puts number=number+1
+puts number=number+1
 end
 
