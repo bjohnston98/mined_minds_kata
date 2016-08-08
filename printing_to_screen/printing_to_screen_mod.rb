@@ -1,13 +1,13 @@
 number = 1
 100.times do
 	if number % 3 ==0 && number % 5 == 0 
-		puts "minedminds"
+		#puts "minedminds"
 	elsif number % 3 == 0
-		puts "mined"
+		#puts "mined"
 	elsif number % 5 == 0
-		puts "minds"	
+		#puts "minds"	
 	else 
-		puts number
+		#puts number
 	end
 	number = number + 1
 end
